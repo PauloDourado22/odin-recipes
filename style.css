@@ -37,3 +37,13 @@ p {
     font-family: Arial, Helvetica, sans-serif;
     text-align: center;
 }
+
+.home {
+    width: 400px;
+    background: #015528;
+    margin: 16px auto;
+}
+
+.title {
+    background: #015528;
+}
